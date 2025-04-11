@@ -6,7 +6,7 @@ import serial
 # === CONFIGURATION ===
 COM_PORT = "/dev/ttyACM0"  # ← Change this to your Arduino port
 BAUD_RATE = 115200
-CSV_FILENAME = "sensor_log_occupancy_up20.csv"
+CSV_FILENAME = "stupid.csv"
 
 # ======================
 
